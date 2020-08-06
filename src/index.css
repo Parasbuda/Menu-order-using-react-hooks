@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: lightgray;
+}
+
+.form{
+ margin-top: 100px;
+  align-content: center;
+  text-align: center;
+  color: blueviolet;
+  
+}
+
+.item{
+border: 2px solid purple;
+text-align: left;
+align-content:center ;
+font-size: 16px;
+background-color: rosybrown;
+}
